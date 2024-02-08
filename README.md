@@ -1,6 +1,6 @@
 # quick-audio-note
 
-> Este projeto é uma aplicação desenvolvida com React que tem como objetivo a conversão automática de notas de áudio em texto. Utilizando tecnologias de ponta em reconhecimento de voz, esta aplicação é capaz de transcrever gravações de áudio com precisão, transformando-as em texto legível.
+> Este projeto é uma aplicação desenvolvida com React que tem como objetivo a conversão automática de notas de áudio em texto. Utilizando tecnologias de ponta em reconhecimento de voz, esta aplicação é capaz de transcrever gravações de áudio com precisão, transformando-as em texto legível. Teste o site: <a href="https://quick-audio-note.netlify.app/">https://quick-audio-note.netlify.app/</a>
 
 ## Techs
 ![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react)
