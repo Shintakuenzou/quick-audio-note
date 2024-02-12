@@ -11,3 +11,10 @@
 - Clone o repositório.
 - Instale às dependências usando o comando `npm i` | | `npm install`
 - Rode a aplicação `npm run dev`
+
+## Recursos e funcionalidades
+- [x] Transcrição Automática
+- [x] Funcionalidade de Busca
+- [x] Criação de notas e armazenar no localstorage
+- [ ] Adicione Recursos de Edição de Texto.
+- [ ] Adicione Tags e Categorias
